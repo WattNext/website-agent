@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+
+# Editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Node and package manager artifacts
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build and cache output
+dist/
+build/
+.cache/
+.tmp/
+tmp/
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Local exports or working files that should not become source material by accident
+exports/
+downloads/
+scratch/
